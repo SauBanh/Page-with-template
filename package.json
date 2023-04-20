@@ -1,0 +1,24 @@
+{
+    "name": "page-with-template",
+    "version": "1.0.0",
+    "description": "Create a page with a template pug, handlebars and ejs",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SauBanh/Page-with-template.git"
+    },
+    "keywords": [],
+    "author": "Nguyễn Tuấn Anh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SauBanh/Page-with-template/issues"
+    },
+    "homepage": "https://github.com/SauBanh/Page-with-template#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    }
+}
